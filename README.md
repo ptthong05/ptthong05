@@ -4,7 +4,7 @@
 
 ### 🎓 Information Technology Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Information+Technology+Student;Front-end+Developer;Business+Analyst;Data+Analyst;Software+Tester;IT+Support;Software+Deployment+Engineer;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=950&lines=Information+Technology+Student;Front-end+Developer;Business+Analyst;Data+Analyst;Software+Tester;IT+Support;Software+Deployment+Engineer;Always+Learning+New+Technologies"/>
 
 <br>
 
@@ -20,11 +20,11 @@
 
 # 🚀 About Me
 
-🎓 Information Technology Student at **Industrial University of Ho Chi Minh City (IUH)**.
+🎓 Information Technology Student at **University Of Transport Ho Chi Minh City (2023-2017)**.
 
-💻 Passionate about software development, web technologies, and continuously improving technical skills.
+💻 Passionate about building modern web applications and continuously improving my technical skills.
 
-🌱 Currently Learning
+🌱 **Currently Learning**
 
 - HTML5
 - CSS3
@@ -32,24 +32,45 @@
 - React
 - Next.js
 - Tailwind CSS
-- Git & GitHub
 - MySQL
 - Microsoft SQL Server
 - C++
+- Git & GitHub
 
 ---
 
 # 🛠 Tech Stack
 
-<div align="center">
+## 🌐 Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,mysql,git,github,vscode,figma,cpp" />
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</p>
 
-<br><br>
+---
 
+## 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,js" />
+</p>
+
+---
+
+## 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
 
-</div>
+---
+
+## 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
 
 ---
 
@@ -101,43 +122,19 @@ Modern restaurant website built with React.
 
 ### ⭐ Student Management System
 
-CRUD application using MySQL and SQL Server.
+CRUD application using MySQL & SQL Server.
 
 ---
 
-### ⭐ Drill Bit Defect Detection
+### ⭐ Portfolio Website
 
-High-performance Computer Vision system for industrial drill bit defect detection.
-
-#### Highlights
-
-- YOLO-based defect detection
-- Custom dataset training
-- Model optimization & benchmarking
-- Real-world industrial application
-
-🔗 Repository
-
-https://github.com/GiaThinh110605/Drill_Bit_Defect_Detection
+Personal portfolio introducing myself and showcasing my projects.
 
 ---
 
-### ⭐ AI Engineer Interview Preparation
+### ⭐ More Projects
 
-A structured roadmap containing:
-
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- NLP
-- AI Coding Problems
-- System Design
-- Deployment
-- Interview Notes
-
-🔗 Repository
-
-https://github.com/GiaThinh110605/AI_Engineer
+Visit my repositories to see more personal and academic projects.
 
 ---
 
@@ -145,11 +142,11 @@ https://github.com/GiaThinh110605/AI_Engineer
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/ptthong05">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:ptthong.www@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -157,12 +154,12 @@ https://github.com/GiaThinh110605/AI_Engineer
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.facebook.com/YOUR_FACEBOOK">
+<a href="https://www.facebook.com/https://www.facebook.com/share/1HJQqqm4CE/">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="https://zalo.me/YOUR_ZALO">
-<img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&label=Zalo"/>
+<a href="https://zalo.me/0932525650">
+<img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logoColor=white"/>
 </a>
 
 </p>
