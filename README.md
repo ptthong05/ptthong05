@@ -8,16 +8,11 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 
 </div>
 
@@ -27,38 +22,34 @@
 
 🎓 Information Technology Student at **Industrial University of Ho Chi Minh City (IUH)**.
 
-💻 Passionate about building modern web applications and continuously improving my technical skills.
+💻 Passionate about software development, web technologies, and continuously improving technical skills.
 
-🌱 **Currently Learning**
+🌱 Currently Learning
 
 - HTML5
 - CSS3
 - JavaScript (ES6+)
 - React
+- Next.js
 - Tailwind CSS
 - Git & GitHub
 - MySQL
 - Microsoft SQL Server
 - C++
 
-🎯 **Career Interests**
-
-- 💻 Front-end Developer
-- 📊 Data Analyst
-- 📑 Business Analyst
-- 🧪 Software Tester
-- 🖥 IT Support
-- 🚀 Software Deployment Engineer
-
 ---
 
 # 🛠 Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,mysql,cpp,vscode,figma&perline=6"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,mysql,git,github,vscode,figma,cpp" />
 
-</p>
+<br><br>
+
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+</div>
 
 ---
 
@@ -94,19 +85,63 @@
 
 ---
 
-# 💼 Featured Projects
+# ⭐ Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🛒 E-Commerce Website | Responsive shopping website | HTML, CSS, JS |
-| 🍔 Food Ordering Website | Restaurant landing page | React |
-| 🎵 Music Player | Web music player | JavaScript |
-| 📋 Todo App | Task management | React |
-| 📚 Student Management | CRUD application | MySQL |
+### ⭐ E-Commerce Website
+
+Responsive shopping website built with HTML, CSS and JavaScript.
 
 ---
 
-# 📫 Connect with Me
+### ⭐ Food Ordering Website
+
+Modern restaurant website built with React.
+
+---
+
+### ⭐ Student Management System
+
+CRUD application using MySQL and SQL Server.
+
+---
+
+### ⭐ Drill Bit Defect Detection
+
+High-performance Computer Vision system for industrial drill bit defect detection.
+
+#### Highlights
+
+- YOLO-based defect detection
+- Custom dataset training
+- Model optimization & benchmarking
+- Real-world industrial application
+
+🔗 Repository
+
+https://github.com/GiaThinh110605/Drill_Bit_Defect_Detection
+
+---
+
+### ⭐ AI Engineer Interview Preparation
+
+A structured roadmap containing:
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- NLP
+- AI Coding Problems
+- System Design
+- Deployment
+- Interview Notes
+
+🔗 Repository
+
+https://github.com/GiaThinh110605/AI_Engineer
+
+---
+
+# 📫 Contact Me
 
 <p align="center">
 
@@ -120,6 +155,14 @@
 
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/YOUR_FACEBOOK">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://zalo.me/YOUR_ZALO">
+<img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&label=Zalo"/>
 </a>
 
 </p>
