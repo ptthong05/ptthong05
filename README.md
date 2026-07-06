@@ -74,71 +74,21 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
 # ⭐ Featured Projects
 
-### ⭐ E-Commerce Website
+### E-Commerce Website
 
 Responsive shopping website built with HTML, CSS and JavaScript.
 
 ---
 
-### ⭐ Food Ordering Website
-
-Modern restaurant website built with React.
-
----
-
-### ⭐ Student Management System
-
-CRUD application using MySQL & SQL Server.
-
----
-
-### ⭐ Portfolio Website
-
-Personal portfolio introducing myself and showcasing my projects.
-
----
-
-### ⭐ More Projects
+### More Projects
 
 Visit my repositories to see more personal and academic projects.
 
 ---
 
-# 📫 Contact Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -169,7 +119,5 @@ Visit my repositories to see more personal and academic projects.
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
 
 </div>
