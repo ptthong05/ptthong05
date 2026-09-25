@@ -77,15 +77,15 @@
 # ⭐ Featured Projects
 
 ### 🎓 [EduLearn - Online Learning Platform](https://github.com/ptthong05/edu-learn-online)
-> Hệ thống quản lý đào tạo & học tập trực tuyến toàn diện cho học viên và giảng viên.
+> Hệ thống mua khoá học drive và tiếp thị liên kết 
 - **Tech Stack:** Next.js, React, Node.js, Express, MongoDB, Tailwind CSS.
-- **Tính năng chính:** Quản lý khóa học, bài giảng video/tài liệu, thi trắc nghiệm online, theo dõi tiến độ học tập và cấp chứng chỉ.
+- **Tính năng chính:** Quản lý khóa học, bài giảng video/tài liệu, mua khoá học, tiếp thị liên kết,...
 - 🔗 **Repository:** [github.com/ptthong05/edu-learn-online](https://github.com/ptthong05/edu-learn-online)
 ---
 ### 🏢 [Industrial Real-Estate (RealtorVietnam)](https://github.com/ptthong05/industrialReal-Estate)
 > Nền tảng quản lý & giao dịch bất động sản công nghiệp (nhà xưởng, kho bãi, đất khu công nghiệp).
 - **Tech Stack:** NestJS 11, Next.js 15, React 19, MongoDB (Mongoose), Cloudflare R2 / AWS S3, SunEditor, Tailwind CSS.
-- **Tính năng chính:** Đăng tin & tìm kiếm BĐS theo bộ lọc nâng cao, quản lý duyệt tin, phân quyền RBAC đa cấp bậc, xác thực bảo mật qua Email OTP & Google OAuth.
+- **Tính năng chính:** Đăng tin & tìm kiếm BĐS theo bộ lọc nâng cao, quản lý duyệt tin, phân quyền RBAC đa cấp bậc, xác thực bảo mật qua Email OTP & Google OAuth, xem sản phẩm kho xưởng...
 - 🔗 **Repository:** [github.com/ptthong05/industrialReal-Estate](https://github.com/ptthong05/industrialReal-Estate)
 ---
 
