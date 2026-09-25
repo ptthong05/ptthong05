@@ -76,16 +76,17 @@
 
 # ⭐ Featured Projects
 
-### E-Commerce Website
-
-Responsive shopping website built with HTML, CSS and JavaScript.
-
+### 🎓 [EduLearn - Online Learning Platform](https://github.com/ptthong05/edu-learn-online)
+> Hệ thống quản lý đào tạo & học tập trực tuyến toàn diện cho học viên và giảng viên.
+- **Tech Stack:** Next.js, React, Node.js, Express, MongoDB, Tailwind CSS.
+- **Tính năng chính:** Quản lý khóa học, bài giảng video/tài liệu, thi trắc nghiệm online, theo dõi tiến độ học tập và cấp chứng chỉ.
+- 🔗 **Repository:** [github.com/ptthong05/edu-learn-online](https://github.com/ptthong05/edu-learn-online)
 ---
-
-### More Projects
-
-Visit my repositories to see more personal and academic projects.
-
+### 🏢 [Industrial Real-Estate (RealtorVietnam)](https://github.com/ptthong05/industrialReal-Estate)
+> Nền tảng quản lý & giao dịch bất động sản công nghiệp (nhà xưởng, kho bãi, đất khu công nghiệp).
+- **Tech Stack:** NestJS 11, Next.js 15, React 19, MongoDB (Mongoose), Cloudflare R2 / AWS S3, SunEditor, Tailwind CSS.
+- **Tính năng chính:** Đăng tin & tìm kiếm BĐS theo bộ lọc nâng cao, quản lý duyệt tin, phân quyền RBAC đa cấp bậc, xác thực bảo mật qua Email OTP & Google OAuth.
+- 🔗 **Repository:** [github.com/ptthong05/industrialReal-Estate](https://github.com/ptthong05/industrialReal-Estate)
 ---
 
 # 🌐 Connect With Me
